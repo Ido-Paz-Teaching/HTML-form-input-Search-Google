@@ -1,6 +1,6 @@
 # HTML form , input , for searching google
 *You can only use HTML tags with NO CSS to achieve the user interface.<br/>
-*Enable submiting the form only if there is text in the search text and between 1 to 25 search results.(only using html input attributes)<br/>
+*Enable submiting the form only if there is text in the search text and 1 to 25 search results.(only using html input attributes)<br/>
 1. Create an index.html file with html structure
 2. Add form to html body that will collect the user's data 
 3. In the form collect the :<br/>
