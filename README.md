@@ -10,4 +10,4 @@ c. Numeric input that will hold the number of results shown (num)<br/>
 d. Checkbox that when checked it will limit the results to hebrew (lr)<br/>
 *for explantion about the parameters to send google use https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters
 4. Submit button with "Ask google" text
-5. When clicking Submit button , send the user input to "https://google.co.il/search" and open the results in a black page. 
+5. When clicking Submit button , send the user input to "https://google.co.il/search" and open the results in a _blank page. 
